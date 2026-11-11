@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="672" viewBox="0 0 960 672">
+ <title>Ilustraciones pixel art de las estaciones del Valle</title>
+ <g shape-rendering="crispEdges">
+  <!-- 0: The quiet garden -->
+  <g transform="translate(0 0)">
+   <ellipse cx="160" cy="195" rx="137" ry="16" fill="#253b31" opacity=".55"/>
+   <path d="M16 180h288v24H16z" fill="#456044"/><path d="M29 174h260v11H29z" fill="#93a66a"/>
+   <path d="M128 172h46V86h-46z" fill="#604536"/><path d="M115 107h31V74h22v28h39v23h-34v31h-54z" fill="#704e39"/>
+   <path d="M66 91h33V62h30V35h33V19h39v23h27v26h24v35h-26v25H92V108H63z" fill="#304639"/>
+   <path d="M76 84h29V57h28V33h30V26h34v21h27v24h24v26h-30v24H99V98H76z" fill="#577a4b"/>
+   <path d="M92 73h29V53h29V39h25v17h24v18h27v18h-22v17h-90V91H92z" fill="#789458"/>
+   <path d="M118 61h22V46h28v14h23v15h-21v15h-45V74h-7z" fill="#99ae68"/>
+   <path d="M50 160h46v15H50zM217 156h38v18h-38z" fill="#9a7650"/><path d="M59 154h29v8H59zM225 150h23v8h-23z" fill="#d1ae70"/>
+   <path d="M41 187h9v8h-9zm26-7h8v7h-8zm180 11h9v7h-9zm26-17h7v8h-7z" fill="#cfb46c"/>
+  </g>
+  <!-- 1: The key door -->
+  <g transform="translate(320 0)">
+   <ellipse cx="160" cy="195" rx="137" ry="16" fill="#293830" opacity=".55"/>
+   <path d="M34 183h254v12H34z" fill="#8a6248"/><path d="M45 180V70l114-48 116 48v110z" fill="#b18a5c"/>
+   <path d="M57 78l102-42 103 42v99H57z" fill="#e0c890"/><path d="M69 81l90-37 91 37v14H69z" fill="#7f5140"/>
+   <path d="M115 99h89v82h-89z" fill="#4e382f"/><path d="M123 106h73v75h-73z" fill="#9f6948"/><path d="M132 115h56v66h-56z" fill="#bf8354"/>
+   <path d="M140 124h40v47h-40z" fill="#a9704c"/><path d="M146 131h28v33h-28z" fill="#8f5b43"/><path d="M159 140h8v11h-8z" fill="#e8c477"/><circle cx="165" cy="156" r="3" fill="#efd58c"/>
+   <path d="M77 104h24v28H77zM220 104h24v28h-24z" fill="#547d83"/><path d="M83 110h12v16H83zM226 110h12v16h-12z" fill="#9bc2ad"/>
+   <path d="M113 184h92v8h-92z" fill="#d2b778"/><path d="M30 184h21v9H30zm239 0h20v9h-20z" fill="#d5bb7d"/>
+   <path d="M71 175h32v8H71zm146 0h31v8h-31z" fill="#638052"/>
+  </g>
+  <!-- 2: Family kitchen table -->
+  <g transform="translate(640 0)">
+   <ellipse cx="160" cy="196" rx="137" ry="15" fill="#293a33" opacity=".52"/>
+   <path d="M34 174h252v16H34z" fill="#766044"/><path d="M47 42h228v129H47z" fill="#a27650"/><path d="M57 51h207v111H57z" fill="#e8d4a5"/>
+   <path d="M76 65h72v54H76z" fill="#5b8790"/><path d="M83 72h58v40H83z" fill="#a7c9b4"/><path d="M108 72h8v40h-8zM83 87h58v8H83z" fill="#e5d19a"/>
+   <path d="M176 73h62v44h-62z" fill="#bd9260"/><path d="M183 80h49v30h-49z" fill="#ead8ae"/><path d="M194 85h25v5h-25zm0 11h31v4h-31z" fill="#a8875b"/>
+   <path d="M83 124h12v34H83zM235 124h12v34h-12z" fill="#735039"/><path d="M74 157h177v13H74z" fill="#916342"/>
+   <path d="M66 132h186v18H66z" fill="#694a39"/><path d="M73 125h172v16H73z" fill="#b47c50"/><path d="M80 120h158v12H80z" fill="#d2a069"/>
+   <path d="M108 106h18v16h-18z" fill="#eee2c1"/><path d="M111 101h12v7h-12z" fill="#79513c"/><path d="M189 106h18v16h-18z" fill="#eee2c1"/><path d="M192 101h12v7h-12z" fill="#79513c"/>
+   <path d="M271 123h10v30h-10zM266 113h21v13h-21z" fill="#648254"/><path d="M271 109h12v8h-12z" fill="#91a95e"/>
+  </g>
+  <!-- 3: The bridge of mirrors -->
+  <g transform="translate(0 224)">
+   <ellipse cx="160" cy="192" rx="144" ry="18" fill="#24393b" opacity=".6"/>
+   <path d="M17 161h286v39H17z" fill="#477d86"/><path d="M28 170h264v25H28z" fill="#83b5a7"/><path d="M39 180h80v6H39zm155 7h92v5h-92z" fill="#b5d0a6"/>
+   <path d="M29 148h262v26H29z" fill="#7d654b"/><path d="M37 138h246v24H37z" fill="#c4a574"/><path d="M48 129h224v18H48z" fill="#dec28c"/>
+   <path d="M72 117h25v25H72zm154 0h25v25h-25z" fill="#9b7954"/><path d="M96 112h128v19H96z" fill="#d7bb86"/>
+   <path d="M70 101h34v-27h32V54h48v20h32v27h35v31H70z" fill="#514c48"/><path d="M81 100h31V75h31V64h43v17h30v22h25v22H81z" fill="#788678"/>
+   <path d="M129 110h62V79h-62z" fill="#57919a"/><path d="M135 104h50V83h-50z" fill="#a9d0be"/><path d="M158 83h5v21h-5zM136 92h48v4h-48z" fill="#ecdda9"/>
+   <path d="M58 153h14v24H58zm190 0h14v24h-14z" fill="#665343"/><path d="M52 149h26v8H52zm183 0h27v8h-27z" fill="#d6bc86"/>
+   <path d="M38 165h10v5H38zm225 14h12v5h-12z" fill="#f2d98b"/>
+  </g>
+  <!-- 4: Friendship bench -->
+  <g transform="translate(320 224)">
+   <ellipse cx="160" cy="195" rx="138" ry="17" fill="#293c33" opacity=".56"/>
+   <path d="M17 184h286v16H17z" fill="#5f744d"/><path d="M38 174h244v12H38z" fill="#9eaa68"/>
+   <path d="M131 177h42V88h-42z" fill="#6f4e38"/><path d="M65 94h37V64h28V40h33V25h33v22h29v27h29v35h-30v27H97v-27H65z" fill="#3a5140"/><path d="M73 87h34V60h28V39h29V32h29v22h27v24h27v32h-29v22H104v-23H73z" fill="#63834c"/><path d="M98 75h31V53h28v15h26V53h28v28h23v19h-25v20h-93v-19H98z" fill="#85a259"/>
+   <path d="M72 139h176v17H72z" fill="#76513b"/><path d="M77 130h166v17H77z" fill="#a8754b"/><path d="M85 122h149v14H85z" fill="#c4935e"/><path d="M89 155h13v30H89zm133 0h13v30h-13z" fill="#704e38"/>
+   <path d="M40 177h25v7H40zm219 0h23v7h-23z" fill="#d6b96e"/><path d="M51 169h13v8H51zm204-7h11v9h-11z" fill="#71965c"/>
+  </g>
+  <!-- 5: Social screen -->
+  <g transform="translate(640 224)">
+   <ellipse cx="160" cy="197" rx="134" ry="15" fill="#26393b" opacity=".56"/>
+   <path d="M25 180h270v16H25z" fill="#506e58"/><path d="M76 165h168v14H76z" fill="#9b7653"/><path d="M84 156h152v15H84z" fill="#bd9260"/>
+   <path d="M123 151h74v-93h-74z" fill="#394342"/><path d="M130 143h60V64h-60z" fill="#7f5642"/><path d="M137 132h46V74h-46z" fill="#223c45"/><path d="M142 125h36V82h-36z" fill="#79a8a6"/>
+   <path d="M147 87h27v8h-27zm0 14h27v6h-27zm0 11h21v6h-21z" fill="#d9d49b"/><circle cx="160" cy="135" r="3" fill="#e5cf8e"/>
+   <path d="M51 151h22v-19h-22z" fill="#74523e"/><path d="M56 144h12v-9H56z" fill="#94bdad"/><path d="M241 147h25v-17h-25z" fill="#71503c"/><path d="M246 140h15v-8h-15z" fill="#e4cf92"/>
+   <path d="M91 108h18v7H91zm123-20h20v7h-20zm-8 68h21v7h-21zM61 88h19v7H61z" fill="#e6c978"/>
+   <path d="M100 56h20v6h-20zm101 28h19v6h-19zM106 136h11v6h-11z" fill="#91b4a2"/>
+  </g>
+  <!-- 6: The overlook -->
+  <g transform="translate(0 448)">
+   <ellipse cx="160" cy="196" rx="140" ry="16" fill="#273a36" opacity=".57"/>
+   <path d="M14 185h292v16H14z" fill="#66724d"/><path d="M20 170h279v18H20z" fill="#98704b"/><path d="M32 161h256v14H32z" fill="#bc8b54"/>
+   <path d="M28 75h264v86H28z" fill="#7a9da0"/><path d="M38 105l52-48 52 48v28H38z" fill="#56775e"/><path d="M112 107l59-64 61 64v24H112z" fill="#46654e"/><path d="M187 104l51-49 58 49v28H187z" fill="#69835a"/>
+   <path d="M48 99l42-39 39 39v12H48zM128 99l43-47 47 47v13h-90zM203 97l35-34 42 34v12h-77z" fill="#a4ab75"/><path d="M63 102h168v10H63z" fill="#b7c38a"/>
+   <circle cx="245" cy="54" r="18" fill="#f2d283"/><path d="M245 22v-9m0 83v-9m-31-33h-10m93 0h-10m-65-23-7-7m66 66-7-7" stroke="#ebc56e" stroke-width="5"/>
+   <path d="M42 149h236v9H42zM51 158h10v21H51zm207 0h10v21h-10zM62 161h199v8H62z" fill="#644937"/>
+   <path d="M30 181h29v7H30zm233 0h27v7h-27z" fill="#d7bd7c"/>
+  </g>
+  <!-- 7: The excellence workshop -->
+  <g transform="translate(320 448)">
+   <ellipse cx="160" cy="196" rx="139" ry="16" fill="#263a37" opacity=".56"/>
+   <path d="M28 46h264v134H28z" fill="#866144"/><path d="M39 56h243v115H39z" fill="#d9c697"/>
+   <path d="M55 69h209v68H55z" fill="#557c7e"/><path d="M62 76h196v54H62z" fill="#83a89a"/><path d="M94 81h8v42h-8zm59 0h8v42h-8zm56 0h8v42h-8z" fill="#e6d4a3"/>
+   <path d="M62 91h196v5H62zm0 20h196v5H62z" fill="#c6b98e"/>
+   <path d="M44 148h232v14H44z" fill="#76523e"/><path d="M52 140h218v14H52z" fill="#bc8955"/><path d="M59 134h203v10H59z" fill="#d3a66c"/>
+   <path d="M67 163h13v28H67zm182 0h13v28h-13z" fill="#684937"/><path d="M89 113h38v22H89z" fill="#76523e"/><path d="M94 105h28v29H94z" fill="#e4d7b2"/><path d="M99 111h18v4H99zm0 9h18v4H99z" fill="#7b8e72"/>
+   <path d="M144 109h18v26h-18z" fill="#9f6248"/><path d="M147 102h12v10h-12z" fill="#e3c47c"/><path d="M181 110h45v6h-45zm0 9h36v5h-36z" fill="#547c80"/>
+  </g>
+  <!-- 8: The old tree at the end of the path -->
+  <g transform="translate(640 448)">
+   <ellipse cx="160" cy="197" rx="138" ry="16" fill="#273a31" opacity=".58"/>
+   <path d="M18 180h286v21H18z" fill="#53664a"/><path d="M74 184h174v9H74z" fill="#c2a86d"/>
+   <path d="M138 179h43V94h-43z" fill="#654735"/><path d="M125 127h20V98l-26-16 7-12 34 20 23-22 11 10-27 26v36h-42z" fill="#74503b"/>
+   <path d="M77 105h33V74h29V48h36V29h36v24h31v28h24v32h-32v27H98v-24H72z" fill="#34483a"/>
+   <path d="M83 99h32V71h28V47h31V38h31v22h27v25h26v28h-30v22H101v-22H83z" fill="#587947"/><path d="M104 87h29V64h28V53h24v16h28v-9h25v25h20v18h-24v19H119v-18h-15z" fill="#789650"/>
+   <path d="M134 71h28v-8h26v12h22v-9h24v18h17v10h-20v11h-97V94h-16V79h16z" fill="#91aa5e"/>
+   <path d="M111 103h8v8h-8zm114-4h9v9h-9zm-30 28h8v8h-8zM91 128h8v8h-8z" fill="#e4c276"/>
+   <path d="M48 181h22v8H48zm206 0h22v8h-22z" fill="#d5b876"/>
+  </g>
+ </g>
+</svg>

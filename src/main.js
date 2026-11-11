@@ -2,7 +2,7 @@ import { GAME_CONFIG } from './config/gameConfig.js';
 import { BootScene } from './scenes/BootScene.js';
 import { MenuScene } from './scenes/MenuScene.js';
 import { CharacterCreatorScene } from './scenes/CharacterCreatorScene.js';
-import { WorldMapScene } from './scenes/WorldMapScene.js';
+import { ValleyScene } from './scenes/ValleyScene.js';
 import { EpisodeScene } from './scenes/EpisodeScene.js';
 import { ResultsScene } from './scenes/ResultsScene.js';
 
@@ -13,5 +13,5 @@ new Phaser.Game({
   scale: { mode: Phaser.Scale.FIT, autoCenter: Phaser.Scale.CENTER_BOTH },
   render: { antialias: false, pixelArt: true },
   physics: { default: 'arcade', arcade: { debug: false } },
-  scene: [BootScene, MenuScene, CharacterCreatorScene, WorldMapScene, EpisodeScene, ResultsScene]
+  scene: [BootScene, MenuScene, CharacterCreatorScene, ValleyScene, EpisodeScene, ResultsScene]
 });
