@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=./ && node scripts/copy-phaser.mjs",
+    "build:pages": "vite build --base=/ProyectoCORE/ && node scripts/copy-phaser.mjs",
     "preview": "vite preview"
   },
   "keywords": [],
